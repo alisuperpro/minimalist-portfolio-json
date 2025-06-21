@@ -3,9 +3,9 @@
     "name": "Ali R. Solorzano A.",
     "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "alisolorzano0001@gmail.com",
+    "email": "alisolorzanove@gmail.com",
     "phone": "+584249212535",
-    "url": "https://ali.vercel.app",
+    "url": "https://ali-portfolio-blush.vercel.app/",
     "summary": "+5 años de experiencia como Desarrollador Web. Vivo en Monagas, Venezuela. He trabajado en diferentes entornos: desde Frontend developer hasta Backend developer y tambien como Desktop app developer.",
     "location": {
       "address": "",
@@ -35,9 +35,7 @@
       "startDate": "2020-07-01",
       "endDate": "actual",
       "summary": "Desarrollador del sitio web de Play al Deporte.",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Cache Marketing",
@@ -45,9 +43,15 @@
       "startDate": "2024-03-028",
       "endDate": "actual",
       "summary": "Desarrollé el sitio de web de Cache Marketing.",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Mariachi Tequila Brass",
+      "position": "Desarrollador Web",
+      "startDate": "2025-06-20",
+      "endDate": "actual",
+      "summary": "Desarrollé el sitio de web de Mariachi Tequila Brass.",
+      "highlights": ["Desarrollé el sitio de web de Mariachi Tequila Brass."]
     }
   ],
   "education": [
@@ -56,8 +60,8 @@
       "url": "",
       "area": "Tecnologia",
       "studyType": "Bachelor",
-      "startDate": "2001-07-019",
-      "endDate": "actual",
+      "startDate": "2019-07-019",
+      "endDate": "2025-07-019",
       "score": "5.0"
     }
   ],
@@ -65,29 +69,17 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -112,12 +104,7 @@
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
@@ -132,11 +119,7 @@
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
@@ -162,12 +145,7 @@
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -183,10 +161,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "references": [
@@ -200,29 +175,29 @@
       "name": "Play al Deporte",
       "isActive": true,
       "description": "Sitio de web de Play al Deporte",
-      "highlights": [
-        "Portal Deportivo",
-        "En desarrollo"
-      ],
+      "highlights": ["Portal Deportivo", "En desarrollo"],
       "url": "https://playaldeporte.com"
     },
     {
       "name": "Cache Marketing",
       "isActive": true,
       "description": "Agencia de Marketing",
-      "highlights": [
-        "Agencia de Marketing en Monagas"
-      ],
+      "highlights": ["Agencia de Marketing en Monagas"],
       "url": "https://cachemarketing.net"
     },
     {
       "name": "RafaGonzalez DJ",
       "isActive": true,
       "description": "Sitio web de Rafa Gonzalez DJ",
-      "highlights": [
-        "Radio Online"
-      ],
+      "highlights": ["Radio Online"],
       "url": "https://rafagonzalezdj.com"
+    },
+    {
+      "name": "Mariachi Tequila Brass",
+      "isActive": true,
+      "description": "Sitio web de Mariachi Tequila Brass",
+      "highlights": ["Mariachi", "Florida"],
+      "url": "https://mariachitequilabrass.com"
     }
   ]
 }
