@@ -44,14 +44,6 @@
       "endDate": "actual",
       "summary": "Desarrollé el sitio de web de Cache Marketing.",
       "highlights": ["Started the company"]
-    },
-    {
-      "name": "Mariachi Tequila Brass",
-      "position": "Desarrollador Web",
-      "startDate": "2025-06-20",
-      "endDate": "actual",
-      "summary": "Desarrollé el sitio de web de Mariachi Tequila Brass.",
-      "highlights": ["Desarrollé el sitio de web de Mariachi Tequila Brass."]
     }
   ],
   "education": [
@@ -198,6 +190,13 @@
       "description": "Sitio web de Mariachi Tequila Brass",
       "highlights": ["Mariachi", "Florida"],
       "url": "https://mariachitequilabrass.com"
+    },
+    {
+      "name": "Granega Transmisiones",
+      "isActive": true,
+      "description": "Sitio web de Granega Transmisiones",
+      "highlights": ["Radio Online", "Web"],
+      "url": "https://granegatransmisiones.com"
     }
   ]
 }
